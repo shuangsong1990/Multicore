@@ -1,0 +1,127 @@
+c_value: 10
+I am thread 1
+after_increnment c_value: 11
+I am thread 3
+after_increnment c_value: 12
+I am thread 2
+after_increnment c_value: 13
+I am thread 3
+after_increnment c_value: 14
+I am thread 1
+after_increnment c_value: 15
+I am thread 4
+after_increnment c_value: 16
+I am thread 2
+after_increnment c_value: 17
+I am thread 3
+after_increnment c_value: 18
+I am thread 1
+after_increnment c_value: 19
+I am thread 4
+after_increnment c_value: 20
+I am thread 2
+after_increnment c_value: 21
+I am thread 3
+after_increnment c_value: 22
+I am thread 1
+after_increnment c_value: 23
+I am thread 4
+after_increnment c_value: 24
+I am thread 2
+after_increnment c_value: 25
+I am thread 3
+after_increnment c_value: 26
+I am thread 1
+after_increnment c_value: 27
+I am thread 4
+after_increnment c_value: 28
+I am thread 2
+after_increnment c_value: 29
+I am thread 3
+after_increnment c_value: 30
+I am thread 1
+after_increnment c_value: 31
+I am thread 4
+after_increnment c_value: 32
+I am thread 2
+after_increnment c_value: 33
+I am thread 3
+after_increnment c_value: 34
+I am thread 1
+after_increnment c_value: 35
+I am thread 4
+after_increnment c_value: 36
+I am thread 2
+after_increnment c_value: 37
+I am thread 3
+after_increnment c_value: 38
+I am thread 1
+after_increnment c_value: 39
+I am thread 4
+after_increnment c_value: 40
+I am thread 2
+after_increnment c_value: 41
+I am thread 3
+after_increnment c_value: 42
+I am thread 1
+after_increnment c_value: 43
+I am thread 4
+after_increnment c_value: 44
+I am thread 2
+after_increnment c_value: 45
+I am thread 3
+after_increnment c_value: 46
+I am thread 1
+after_increnment c_value: 47
+I am thread 4
+after_increnment c_value: 48
+I am thread 2
+after_increnment c_value: 49
+I am thread 3
+after_increnment c_value: 50
+I am thread 1
+after_increnment c_value: 51
+I am thread 4
+after_increnment c_value: 52
+I am thread 2
+after_increnment c_value: 53
+I am thread 3
+after_increnment c_value: 54
+I am thread 1
+after_increnment c_value: 55
+I am thread 4
+after_increnment c_value: 56
+I am thread 2
+after_increnment c_value: 57
+I am thread 3
+after_increnment c_value: 58
+I am thread 1
+after_increnment c_value: 59
+I am thread 4
+after_increnment c_value: 60
+I am thread 2
+after_increnment c_value: 61
+I am thread 3
+after_increnment c_value: 62
+I am thread 1
+after_increnment c_value: 63
+I am thread 4
+after_increnment c_value: 64
+I am thread 2
+after_increnment c_value: 65
+I am thread 3
+after_increnment c_value: 66
+I am thread 1
+after_increnment c_value: 67
+I am thread 4
+after_increnment c_value: 68
+I am thread 2
+after_increnment c_value: 69
+I am thread 3
+after_increnment c_value: 70
+I am thread 1
+after_increnment c_value: 71
+I am thread 4
+after_increnment c_value: 72
+I am thread 2
+after_increnment c_value: 73
